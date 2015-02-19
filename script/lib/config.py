@@ -27,7 +27,7 @@ TARGET_PLATFORM = {
 verbose_mode = False
 
 def enable_verbose_mode():
-  print 'Running in verbose mode'
+  print('Running in verbose mode')
   global verbose_mode
   verbose_mode = True
 
